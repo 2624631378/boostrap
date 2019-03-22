@@ -1,0 +1,30 @@
+nav{
+
+    background-color: #000;
+    height: 58px;
+}
+
+.navbar-brand img {
+    height: 40px;
+}
+
+nav ul li a {
+    color: #fff;
+}
+
+nav .navbar-header .navbar-brand {
+    padding-top: 9px;
+}
+
+#menu_list .navbar-nav{
+
+    background-color: #000;
+}
+
+@media (max-width: 991px) and (min-width: 768px){
+    .navbar-toggle {
+        display: block;
+    }
+
+}
+

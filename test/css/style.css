@@ -1,0 +1,27 @@
+body {
+    padding-top: 70px;
+}
+
+.navbar-default {
+    background: #fff;
+}
+
+.navbar-form button {
+    background: #fff;
+    border: none;
+}
+
+.navbar-form {
+    position: relative;
+}
+
+.navbar-form button {
+    position: absolute;
+    right: 20px;
+    display: block;
+    top: 8px;
+}
+.nav .navli-spl a{
+    padding-left: 2px; padding-right: 2px;
+
+}

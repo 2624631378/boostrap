@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.teacherList {
+    background: url('../images/3_02.jpg');
+    padding: 15px;
+}
+
+.teacherListMain {
+    width: 90%;
+    margin: 20px auto;
+}
+
+
+.teacherListMain .thumbnail {
+    background: none;
+
+}
+
+.thumbnail {
+
+    border: none;
+}
+
+.teacherListMain .thumbnail .caption {
+    color: #fff;
+
+}
+
+
+
+.thumbnail .caption {
+    padding: 0;
+    text-align: center;
+}
+
+.containerNew .thumbnail {
+
+
+    -moz-box-shadow: 5px 1px 11px #e9f7fe;
+    -webkit-box-shadow: 5px 1px 11px #e9f7fe;
+    box-shadow: 5px 1px 11px #e9f7fe;
+}
+
+.teacherInfo {
+    background: #f9fafc;
+}
+
+
+.media {
+    background: #fff;
+    border-radius: 15px;
+    -moz-box-shadow: -1px 1px 10px #ece5e5;
+    -webkit-box-shadow: -1px 1px 10px #ece5e5;
+    box-shadow: -1px 1px 10px #ece5e5; margin-top: 45px;
+}
+
+.media-body {
+    font-size: 16px;
+    color: #9fa4af;
+    padding: 40px 20px 20px;
+    line-height: 28px;
+    font-weight: bold; position: relative;
+}
+.media-body p{width: 80%;}
+
+.media-heading {
+    font-size: 24px;
+    color: #4f4f6f;
+}
+.media-left{
+    background: #d6e2f1;
+}
+
+.page-header {
+
+    border-bottom: 1px solid #7d87ff;
+    margin: 20px 0;
+    width: 150px;
+}
+.mainewm{
+
+     position: absolute;  right: 10px; bottom: 10px;
+}
+.teacherInfo{ padding-bottom: 170px; padding-top: 80px;}
